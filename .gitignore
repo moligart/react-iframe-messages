@@ -21,5 +21,4 @@ yarn-debug.log*
 yarn-error.log*
 
 *code-workspace
-README.md
 package-lock.json
